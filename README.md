@@ -61,3 +61,6 @@ Sensitive information, such as API keys, are handled securely, and appropriate m
 
 Docker
 Alternatively, you can also run the service using Docker. Use the provided Dockerfile to build the Docker image and run it on your local machine.
+
+https://privatebin.paradox.ai/?e4577a26dbf02517#EK4uEpCjXAkKydWcbuTJQjJp2NvewgYYZeN6qfPJZWmJ
+The password: oompaloompa
